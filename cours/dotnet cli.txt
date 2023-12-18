@@ -1,0 +1,3 @@
+installer un outil (ex: dotnetsay) :
+cmd :
+dotnet tool install dotnetsay -g             -g : --global : pour tout lees projets
